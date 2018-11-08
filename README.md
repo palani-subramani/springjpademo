@@ -20,12 +20,6 @@ Alternatively the [Buildship](https://gradle.org/eclipse/) plugin can help. You 
 
 There is an equivalent task for IntelliJ IDEA `gradlew idea`
 
-## Tips
-* Try to have a least one commit per task so that we can see the work progress
-* Use descriptive commit comments
-* It's up to you whether you want to push regularly or once you are finished with all of your commits
-* Please don't create any pull requests for your fork
-
 ## Tasks
 
 ### 1. Create product list page
